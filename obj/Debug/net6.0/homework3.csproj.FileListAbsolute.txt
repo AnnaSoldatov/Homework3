@@ -1,0 +1,15 @@
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.csproj.AssemblyReference.cache
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.AssemblyInfoInputs.cache
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.AssemblyInfo.cs
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.csproj.CoreCompileInputs.cache
+/Users/teacher/Desktop/SeminarHomework/homework3/bin/Debug/net6.0/homework3
+/Users/teacher/Desktop/SeminarHomework/homework3/bin/Debug/net6.0/homework3.deps.json
+/Users/teacher/Desktop/SeminarHomework/homework3/bin/Debug/net6.0/homework3.runtimeconfig.json
+/Users/teacher/Desktop/SeminarHomework/homework3/bin/Debug/net6.0/homework3.dll
+/Users/teacher/Desktop/SeminarHomework/homework3/bin/Debug/net6.0/homework3.pdb
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.dll
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/refint/homework3.dll
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.pdb
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/homework3.genruntimeconfig.cache
+/Users/teacher/Desktop/SeminarHomework/homework3/obj/Debug/net6.0/ref/homework3.dll
